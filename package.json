@@ -1,0 +1,19 @@
+{
+  "name": "chartiqth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "requirejs": "^2.3.6"
+  }
+}
